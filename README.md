@@ -180,4 +180,4 @@ This project is licensed under the MIT License. Feel free to modify and use it f
 
 ## 📧 Contact
 
-For queries or contributions, please contact [yourname@domain.com]
+For queries or contributions, please contact [iamnaveen1401@gmail.com]
