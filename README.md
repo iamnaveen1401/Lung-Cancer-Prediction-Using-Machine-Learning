@@ -145,11 +145,11 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 
 | Model                 | Accuracy |
 |----------------------|----------|
-| Logistic Regression  | ~91%     |
-| SVM (Linear Kernel)  | ~91%     |
-| Decision Tree        | ~97%     |
-| Random Forest        | ~98%     |
-| KNN                  | ~93%     |
+| Logistic Regression  | ~87%     |
+| SVM (Linear Kernel)  | ~87%     |
+| Decision Tree        | ~86%     |
+| Random Forest        | ~86%     |
+| KNN                  | ~86%     |
 
 *(Note: These are approximations from notebook outputs. Exact scores depend on your dataset state.)*
 
@@ -157,7 +157,7 @@ print("Accuracy:", accuracy_score(y_test, predictions))
 
 ## ✅ Conclusion
 
-- Random Forest and Decision Tree models showed the highest accuracy.
+- Logistic Regressiont and  Support Vector Machine  models showed the highest accuracy.
 - Features such as Smoking, Yellow Fingers, and Chest Pain had strong correlations with lung cancer diagnosis.
 - Machine learning can aid in early lung cancer detection when combined with reliable data.
 
